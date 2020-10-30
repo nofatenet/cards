@@ -1,0 +1,14 @@
+*{
+    opacity: 0.777;
+}
+
+*:hover{
+    opacity: 0.9;
+    transition: 1s;
+}
+
+body{
+    background: #000;
+    padding: 0px;
+    margin: 0px;
+}
